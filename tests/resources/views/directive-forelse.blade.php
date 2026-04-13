@@ -1,0 +1,1 @@
+@inline('partials.forelse-items', ['items' => $items])

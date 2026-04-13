@@ -1,0 +1,1 @@
+@inline('partials.empty-check', ['items' => $items])

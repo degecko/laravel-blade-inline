@@ -1,0 +1,3 @@
+@unless($hidden)
+Shown
+@endunless

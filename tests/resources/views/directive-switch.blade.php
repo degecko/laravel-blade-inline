@@ -1,0 +1,1 @@
+@inline('partials.switch-val', ['val' => $val])

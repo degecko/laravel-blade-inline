@@ -1,0 +1,6 @@
+/vendor/
+/.idea/
+.DS_Store
+.phpunit.result.cache
+.claude/
+CLAUDE.md

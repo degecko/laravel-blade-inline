@@ -1,0 +1,1 @@
+@inline('partials.with-props', ['name' => $name])

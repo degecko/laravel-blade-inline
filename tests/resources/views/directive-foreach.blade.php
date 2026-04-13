@@ -1,0 +1,1 @@
+@inline('partials.foreach-items', ['items' => $items])

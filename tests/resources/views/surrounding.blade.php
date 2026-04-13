@@ -1,0 +1,1 @@
+Before @inline('partials.simple') After

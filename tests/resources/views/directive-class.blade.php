@@ -1,0 +1,1 @@
+@inline('partials.class-attr', ['active' => $active])

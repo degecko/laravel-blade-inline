@@ -1,0 +1,1 @@
+@inline('partials.checked-attr', ['on' => $on])

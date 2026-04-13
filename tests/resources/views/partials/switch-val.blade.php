@@ -1,0 +1,10 @@
+@switch($val)
+    @case('a')
+        Alpha
+    @break
+    @case('b')
+        Beta
+    @break
+    @default
+        Other
+@endswitch

@@ -1,0 +1,1 @@
+@inline('partials.nested-directives', ['show' => $show, 'items' => $items])

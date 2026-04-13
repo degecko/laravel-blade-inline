@@ -1,0 +1,1 @@
+@inline('partials.escaped', ['html' => $html])

@@ -1,0 +1,3 @@
+@empty($items)
+None
+@endempty
