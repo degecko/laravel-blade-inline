@@ -1,0 +1,1 @@
+@inline('partials.profile', ['name' => $name, 'age' => $age, 'role' => $role])

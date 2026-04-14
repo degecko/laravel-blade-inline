@@ -1,0 +1,1 @@
+@inline('partials.mixed-types', ['label' => $label, 'count' => $count, 'active' => $active])

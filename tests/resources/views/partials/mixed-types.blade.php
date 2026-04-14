@@ -1,0 +1,1 @@
+{{ $label }}: {{ $count }} items @if($active)active @else inactive @endif

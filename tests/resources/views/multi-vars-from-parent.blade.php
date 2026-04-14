@@ -1,0 +1,1 @@
+@inline('partials.full-name')

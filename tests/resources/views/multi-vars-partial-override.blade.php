@@ -1,0 +1,1 @@
+@inline('partials.greeting', ['name' => $override])
