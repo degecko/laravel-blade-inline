@@ -1,5 +1,6 @@
 {
     "name": "degecko/laravel-blade-inline",
+    "version": "1.2.0",
     "description": "Inline Blade partials at compile time for faster rendering in loops",
     "keywords": ["laravel", "blade", "inline", "partial", "performance"],
     "license": "MIT",
